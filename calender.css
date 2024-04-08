@@ -1,0 +1,147 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.calender{
+    display: flex;
+    flex-direction: row;
+    padding: o.7rem;
+}
+
+
+.cal1{
+    width: 50%;
+    padding: 0.3rem;
+    
+}
+
+.cal2{
+    
+    border-radius: 70px;
+    padding: 1rem;
+
+    width: 90%;
+    height: 118vh;
+}
+
+.cal4{
+    border: grey solid 0.6px;
+    display: flex;
+    flex-direction: row;
+    border-radius: 20px;
+    padding: 0.6rem;
+
+}
+
+.cal5{
+    line-height: 0.5rem;
+}
+.r{
+  margin-top: 2.4rem;  
+}
+.P0{
+    align-items: end;
+    text-align: end;
+}
+
+.cal5{
+    width: 20%;
+}
+
+.cal6{
+   
+   
+    width: 80%;
+}
+
+.company{
+    margin-left: 2rem;
+    margin-top: 0.4rem;
+    border: 0.6px solid none ;
+    background-color: rgb(150, 202, 223);
+    width: 94%;
+    padding: 0.7rem ;
+    border-radius: 10px;
+
+
+}
+
+
+
+nav{
+    padding: 2rem;
+    border-radius: 50px;
+    width: 90%;
+    line-height: 1.6rem;
+}
+
+input{
+    margin-top: 1rem;
+}
+
+.h{
+    border-radius: 20px;
+    
+}
+
+.task{
+    line-height: 1.6rem;
+}
+
+a{
+    list-style: none;
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+}
+
+.s1{
+    gap: 9rem;
+    
+}
+
+.s2{
+    gap: 12.4rem;
+    
+}
+
+
+.s3{
+   gap: 0.6rem; 
+
+}
+
+input{
+    border-radius: 15px;
+    border: none;
+    padding: 0rem  3rem;
+    
+}
+
+.list{
+    line-height: 1.9rem
+}
+
+.setting{
+    margin-bottom: 4rem;
+    
+}
+
+.w{
+    margin-left: 4rem;
+    margin-top: 0.7rem;
+}
+
+a{
+    list-style: none;
+    text-decoration: none;
+}
+
+
+
+
+
+
+

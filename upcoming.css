@@ -1,0 +1,172 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.upcoming{
+    display: flex;
+    flex-direction: row;
+    padding: 0.7rem;
+    
+}
+
+
+.up1{
+    width: 50%;
+    padding: 0.3rem;
+    
+}
+
+
+
+.up2{
+    
+    border-radius: 70px;
+    padding: rem;
+
+    width: 90%;
+    height: 118vh;
+}
+
+.up3{
+    gap: 0.7rem;
+    
+}
+
+.up4{
+    padding: 1rem;
+    border: grey solid 0.4px;
+    border-radius: 20px;
+    
+    
+}
+
+.up5{
+    width: 100%;
+    border: grey solid 1px;
+}
+
+.up6{
+    margin-left: 0.1rem;
+    gap: 2rem;
+}
+
+.up7{
+    border: grey solid 1px;
+    padding: 0.3rem;
+    border-radius: 10px;
+    width: 100%;
+}
+
+.a1{
+    width: 50%;
+    
+    border: grey solid 0.4px;
+    border-radius: 25px;
+    padding: 1rem;
+}
+.a2{
+    width: 50%;
+    border: grey solid 0.4px;
+    border-radius: 25px;
+    padding: 1rem;
+    
+}
+
+.p1{
+    margin-left: 1rem
+    
+}
+
+p{
+    line-height: 0.1rem;
+}
+
+.in1{
+    border: grey 1px solid;
+    padding: 0.3rem  16rem;
+}
+
+.h1{
+    
+}
+
+.h2{
+    font-size: 20px;
+    margin-top: 0.6rem;
+    border:black  1px solid  ; 
+    border-radius: 20px;
+    height: 1.7rem;
+
+}
+
+
+
+nav{
+    padding: 2rem;
+    border-radius: 50px;
+    width: 90%;
+    line-height: 1.6rem;
+}
+
+input{
+    margin-top: 1rem;
+}
+
+.h{
+    border-radius: 20px;
+    
+}
+
+.task{
+    line-height: 1.6rem;
+}
+
+a{
+    list-style: none;
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+}
+
+.s1{
+    gap: 9rem;
+    
+}
+
+.s2{
+    gap: 12.4rem;
+    
+}
+
+
+.s3{
+   gap: 0.6rem; 
+
+}
+
+input{
+    border-radius: 15px;
+    border: none;
+    padding: 0rem  3rem;
+    
+}
+
+.list{
+    line-height: 1.9rem
+}
+
+.setting{
+    margin-bottom: 4rem;
+    
+}
+
+.w{
+    margin-left: 4rem;
+    margin-top: 0.7rem;
+}
+
+
+
+
+

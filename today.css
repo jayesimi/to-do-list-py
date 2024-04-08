@@ -1,0 +1,133 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+.today{
+    display: flex;
+    flex-direction: row;
+    padding: o.7rem;
+}
+
+.today1{
+    width: 50%;
+    padding: 0.3rem;
+    
+}
+
+.today2{
+    
+    border-radius: 70px;
+    padding: 1rem;
+
+    width: 90%;
+    height: 118vh;
+}
+
+.today3{
+    gap: 1rem;
+}
+
+.today4{
+    border: grey solid 0.6px;
+    padding: 2rem;
+    border-radius: 20px;
+    height: 98vh;
+}
+
+.k1{
+    border: grey solid 0.6px;
+    width: 100%;
+    padding: 0.67rem;
+    border-radius: 10px;
+}
+
+.k2{
+    margin-left: 0.5rem;
+}
+ .p1{
+    margin-top: 0.7rem;
+    border: black solid 0.7px;
+    border-radius: 10px;
+    width: 20px;
+    align-items: center;
+    text-align: center;
+ }
+
+nav{
+    padding: 2rem;
+    border-radius: 50px;
+    width: 90%;
+    line-height: 1.6rem;
+}
+
+input{
+    margin-top: 1rem;
+}
+
+.h{
+    border-radius: 20px;
+    
+}
+
+.task{
+    line-height: 1.6rem;
+}
+
+a{
+    list-style: none;
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+}
+
+.s1{
+    gap: 9rem;
+    
+}
+
+.s2{
+    gap: 12.4rem;
+    
+}
+
+
+.s3{
+   gap: 0.6rem; 
+
+}
+
+input{
+    border-radius: 15px;
+    border: none;
+    padding: 0rem  3rem;
+    
+}
+
+.list{
+    line-height: 1.9rem
+}
+
+.setting{
+    margin-bottom: 4rem;
+    
+}
+
+.w{
+    margin-left: 4rem;
+    margin-top: 0.7rem;
+}
+
+a{
+    list-style: none;
+    text-decoration: none;
+}
+
+
+
+
+
+
+
